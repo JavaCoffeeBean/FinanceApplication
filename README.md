@@ -1,2 +1,2 @@
 # FinanceApplication
-This is
+This is an app
